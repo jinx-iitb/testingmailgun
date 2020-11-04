@@ -7,7 +7,7 @@ import java.io.IOException;
 public class test1 {
 
     public static void main(String[] args) throws IOException {
-        String key = "2e4e8ef329f88db6b884ddaa49c7419e-ea44b6dc-5d92ceb3";
+        String key = "";
         String url = "https://api.mailgun.net/v3/" + "sandbox286a43229b2645c7ba17e5bd0bab86b2.mailgun.org" + "/messages";
                 //https://api.mailgun.net/v3/sandbox286a43229b2645c7ba17e5bd0bab86b2.mailgun.org";
         String from = "yolo@iitb.ac.in";
